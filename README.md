@@ -118,6 +118,7 @@ Specialized tools for data-driven presentations, charts, and business intelligen
 - [ChartBlocks](https://www.chartblocks.com) - Simple chart creation tool. Integrates data from multiple sources for real-time updating charts.
 - [RAWGraphs](https://www.rawgraphs.io) - Open-source data visualization framework. Create custom vector-based visualizations from spreadsheets.
 - [Plotly](https://plotly.com) - Interactive graphing library. Create publication-quality graphs and dashboards with Python, R, or JavaScript.
+- [Rollstack](https://www.rollstack.com/) - Automatically creates and updates presentations and documents from live data sources. Syncs charts and metrics from BI tools into Google Slides and PowerPoint.
 
 ## Specialized & Niche
 
