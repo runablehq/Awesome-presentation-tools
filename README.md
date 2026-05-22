@@ -27,6 +27,7 @@
 AI-powered tools that generate presentations from prompts, content, or simple text descriptions.
 
 - [Runable.com](https://runable.com) - AI-powered platform for generating presentations, websites, and more. Full-stack solution for designers and developers.
+- [Ultimate PPT Master](https://github.com/kdnsna/ultimate-ppt-master-skill) - Open-source, local-first AI presentation hub for Codex and Claude Code. Turns PDFs, docs, PPTX files, URLs, and notes into agent-ready projects, editable PowerPoint, and Web Decks.
 - [Gamma](https://gamma.app) - A new medium for presenting ideas, powered by AI. Create presentations, websites, and documents in seconds without coding or design skills.
 - [Tome](https://tome.app) - AI-powered storytelling format with beautiful, dynamic layouts. Perfect for narrative-driven presentations.
 - [Beautiful.ai](https://www.beautiful.ai) - Generative AI presentation software for teams. Smart Slides automatically adjust layouts and apply brand guidelines.
