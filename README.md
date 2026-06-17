@@ -99,6 +99,7 @@ Tools emphasizing creativity, visual appeal, and interactive audience engagement
 - [Pear Deck](https://www.peardeck.com) - Interactive presentation tool for classroom and training settings. Real-time student responses and engagement.
 - [Mentimeter](https://www.mentimeter.com) - Polling and interactive presentation tool. Engage audiences with real-time Q&A, polls, and quizzes.
 - [Kahoot!](https://kahoot.com) - Gamified quiz and interactive presentation platform. Perfect for educational and training presentations.
+- [Quizotic](https://www.quizotic.live) - India-first live quiz & interactive presentation platform with AI quiz generation, Bloom's Taxonomy, real-time leaderboards. Free tier, INR billing with UPI.
 - [Nearpod](https://nearpod.com) - Interactive lesson and presentation platform. Includes VR field trips, 3D objects, and gamification.
 - [AhaSlides](https://ahaslides.com) - Interactive presentation software with live polls, quizzes, and word clouds. Great for hybrid events.
 - [Poll Everywhere](https://www.polleverywhere.com) - Live polling and Q&A for presentations. Real-time audience response system with SMS and web voting.
