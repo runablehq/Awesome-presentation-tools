@@ -41,6 +41,7 @@ AI-powered tools that generate presentations from prompts, content, or simple te
 - [Slideoo](https://slideoo.ai) - AI presentation maker that transforms documents and ideas into slides. Real-time collaboration and export to multiple formats.
 - [PopAI](https://www.popai.pro) - AI assistant for creating presentations with smart content suggestions and visual enhancements.
 - [Kroma.ai](https://kroma.ai) - AI-powered presentation tool focused on sales and marketing decks. Automatic design suggestions and content optimization.
+- [Presentation Design Prompts](https://github.com/SlideSpeak/presentation-design-prompts) - Free, open-source collection of 56 slide-design prompts for ChatGPT and Claude. Each theme pins a color palette, Google Fonts, and layout rules, so AI-generated decks stay consistent. MIT licensed.
 
 ## AI-Powered (Enterprise & Advanced)
 
