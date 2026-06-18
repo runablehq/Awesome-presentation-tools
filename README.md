@@ -74,6 +74,7 @@ Perfect for developers who prefer writing code and using version control. These 
 - [Slidev](https://sli.dev) - Presentation slides for developers. Write in Markdown, Vue, and HTML. Built with Vue.js and Vite. MIT licensed.
 - [Reveal.js](https://revealjs.com) - The HTML Presentation Framework. Create interactive, web-based presentations with HTML/CSS/JS. Supports nested slides and plugins.
 - [Marp](https://marp.app) - Markdown Presentation Ecosystem. Convert Markdown into HTML, PDF, and PowerPoint. VS Code extension available.
+- [Plain](https://inplain.app) - AI-era office that turns Markdown into shareable web decks, docs, and dashboards. Present from the browser via a link; exports to .pptx/.docx as a fallback.
 - [Remark.js](https://remarkjs.com) - Create Markdown presentations on Linux and other platforms. Simple, powerful, and highly customizable with plugins.
 - [MDX Deck](https://mdx-deck.jxnblk.com) - React + Markdown presentation framework. Build presentations using MDX syntax with full React component support.
 - [Spectacle](https://formidable.com/open-source/spectacle/) - React-based presentation library. Build presentations with JSX and React components.
