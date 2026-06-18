@@ -34,6 +34,7 @@ AI-powered tools that generate presentations from prompts, content, or simple te
 - [Slides AI](https://www.slidesai.io) - AI-powered Google Slides add-on. Generate presentation slides from any text in seconds. Supports 100+ languages.
 - [GenPPT](https://genppt.com) - Create complete slide decks instantly from text prompts. Generates up to 10 slides at a time with chat-based editing.
 - [SlidesGo AI](https://slidesgo.com/ai/presentation-maker) - Free AI presentation maker. Convert topics into stunning presentations with 100+ professional templates.
+- [PPT Template Generator](https://ronnie2025.github.io/ppt-template-generator/) - Browser-only generator for PPT layout plans, AI presentation prompts, and delivery checks.
 - [Presentations.AI](https://www.presentations.ai) - Create PPTs, infographics, charts, timelines, project plans, and product roadmaps with AI.
 - [Plus AI](https://www.plusai.com) - AI add-in for PowerPoint and Google Slides. Works within your existing tools for seamless AI-assisted editing.
 - [Simplified](https://simplified.com) - All-in-one AI content creation platform with presentation maker. Includes design, video, and copywriting tools.
