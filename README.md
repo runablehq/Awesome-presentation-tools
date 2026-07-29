@@ -63,6 +63,7 @@ Cloud-based tools with real-time collaboration, easy sharing, and cross-platform
 - [Microsoft PowerPoint Online](https://www.microsoft.com/en-us/microsoft-365/powerpoint) - Cloud-based PowerPoint with real-time collaboration, Designer AI, and Copilot integration.
 - [Zoho Show](https://www.zoho.com/show/) - Online presentation software with real-time collaboration. Part of Zoho's productivity suite.
 - [Slides](https://slides.com) - Web-based presentation editor built on Reveal.js. Combines code flexibility with visual editing interface.
+- [Slidesfly](https://slidesfly.com) - Publish existing HTML, Reveal.js, Slidev, or Marp decks from a CLI or Agent Skill to stable share URLs.
 - [Swipe](https://www.swipe.to) - Mobile-first presentation platform. Create and present from any device with touch-optimized controls.
 - [Emaze](https://www.emaze.com) - Cloud-based presentation software with 3D templates and automatic design. Video presentations and analytics included.
 - [Genially](https://genial.ly) - Create interactive presentations, infographics, and gamified content. Rich animation and interactivity options.

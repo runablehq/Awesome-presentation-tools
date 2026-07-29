@@ -63,6 +63,7 @@
 - [Microsoft PowerPoint Online](https://www.microsoft.com/en-us/microsoft-365/powerpoint) - 基于云的 PowerPoint，支持实时协作、Designer AI 和 Copilot 集成。
 - [Zoho Show](https://www.zoho.com/show/) - 在线演示软件，支持实时协作。是 Zoho 办公套件的一部分。
 - [Slides](https://slides.com) - 基于 Reveal.js 构建的网络演示编辑器。结合代码灵活性与可视化编辑界面。
+- [Slidesfly](https://slidesfly.com) - 通过 CLI 或 Agent Skill 将现有 HTML、Reveal.js、Slidev 或 Marp 幻灯片发布为稳定的分享链接。
 - [Swipe](https://www.swipe.to) - 以移动设备为优先的演示平台。可从任何设备创建和展示，支持触控优化的操作。
 - [Emaze](https://www.emaze.com) - 基于云的演示软件，提供 3D 模板和自动设计功能。支持视频演示和分析。
 - [Genially](https://genial.ly) - 创建互动演示、信息图表和游戏化内容。提供丰富的动画和互动选项。

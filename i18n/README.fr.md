@@ -63,6 +63,7 @@ Outils basés sur le cloud avec collaboration en temps réel, partage facile et 
 - [Microsoft PowerPoint Online](https://www.microsoft.com/en-us/microsoft-365/powerpoint) - PowerPoint basé sur le cloud avec collaboration en temps réel, Designer IA et intégration Copilot.
 - [Zoho Show](https://www.zoho.com/show/) - Logiciel de présentation en ligne avec collaboration en temps réel. Fait partie de la suite de productivité Zoho.
 - [Slides](https://slides.com) - Éditeur de présentation web basé sur Reveal.js. Combine la flexibilité du code avec une interface d'édition visuelle.
+- [Slidesfly](https://slidesfly.com) - Publiez des présentations HTML, Reveal.js, Slidev ou Marp existantes depuis une CLI ou un Agent Skill vers des URL de partage stables.
 - [Swipe](https://www.swipe.to) - Plateforme de présentation mobile-first. Créez et présentez depuis n'importe quel appareil avec des commandes optimisées pour le tactile.
 - [Emaze](https://www.emaze.com) - Logiciel de présentation basé sur le cloud avec modèles 3D et conception automatique. Présentations vidéo et analyses incluses.
 - [Genially](https://genial.ly) - Créez des présentations interactives, des infographies et du contenu gamifié. Options riches d'animation et d'interactivité.

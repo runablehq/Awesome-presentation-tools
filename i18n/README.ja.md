@@ -63,6 +63,7 @@
 - [Microsoft PowerPoint Online](https://www.microsoft.com/en-us/microsoft-365/powerpoint) - リアルタイムコラボレーション、Designer AI、Copilot統合を備えたクラウドベースのPowerPoint。
 - [Zoho Show](https://www.zoho.com/show/) - リアルタイムコラボレーション機能を備えたオンラインプレゼンテーションソフトウェア。Zohoの生産性スイートの一部。
 - [Slides](https://slides.com) - Reveal.jsをベースにしたウェブベースのプレゼンテーションエディタ。コードの柔軟性とビジュアル編集インターフェースを組み合わせています。
+- [Slidesfly](https://slidesfly.com) - 既存のHTML、Reveal.js、Slidev、MarpデッキをCLIまたはAgent Skillから安定した共有URLとして公開します。
 - [Swipe](https://www.swipe.to) - モバイルファーストのプレゼンテーションプラットフォーム。タッチ最適化コントロールで任意のデバイスから作成・発表可能。
 - [Emaze](https://www.emaze.com) - 3Dテンプレートと自動デザインを備えたクラウドベースのプレゼンテーションソフトウェア。ビデオプレゼンテーションと分析機能付き。
 - [Genially](https://genial.ly) - インタラクティブなプレゼンテーション、インフォグラフィック、ゲーム化されたコンテンツを作成。豊富なアニメーションとインタラクティブ機能。

@@ -46,6 +46,7 @@
         "powerpoint": "Cloud-basiertes PowerPoint mit Echtzeit-Zusammenarbeit, Designer KI und Copilot-Integration.",
         "zohoshow": "Online-Präsentationssoftware mit Echtzeit-Zusammenarbeit. Teil der Zoho-Produktivitätssuite.",
         "slides": "Webbasierter Präsentationseditor auf Basis von Reveal.js. Kombiniert Code-Flexibilität mit visueller Bearbeitungsoberfläche.",
+        "slidesfly": "Veröffentliche vorhandene HTML-, Reveal.js-, Slidev- oder Marp-Präsentationen über eine CLI oder einen Agent Skill unter stabilen Freigabe-URLs.",
         "swipe": "Mobile-First-Präsentationsplattform. Erstellen und präsentieren von jedem Gerät mit touch-optimierten Bedienelementen.",
         "emaze": "Cloud-basierte Präsentationssoftware mit 3D-Vorlagen und automatischem Design. Videopräsentationen und Analysen inklusive.",
         "genially": "Erstellen von interaktiven Präsentationen, Infografiken und gamifizierten Inhalten. Umfangreiche Animations- und Interaktivitätsoptionen."

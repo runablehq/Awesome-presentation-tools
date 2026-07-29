@@ -63,6 +63,7 @@ Herramientas en la nube con colaboración en tiempo real, fácil compartición y
 - [Microsoft PowerPoint Online](https://www.microsoft.com/en-us/microsoft-365/powerpoint) - PowerPoint en la nube con colaboración en tiempo real, Designer IA e integración de Copilot.
 - [Zoho Show](https://www.zoho.com/show/) - Software de presentación en línea con colaboración en tiempo real. Parte del conjunto de productividad de Zoho.
 - [Slides](https://slides.com) - Editor de presentaciones basado en web construido sobre Reveal.js. Combina flexibilidad de código con interfaz de edición visual.
+- [Slidesfly](https://slidesfly.com) - Publica presentaciones HTML, Reveal.js, Slidev o Marp existentes desde una CLI o un Agent Skill en URL estables para compartir.
 - [Swipe](https://www.swipe.to) - Plataforma de presentación orientada a dispositivos móviles. Crea y presenta desde cualquier dispositivo con controles optimizados para táctil.
 - [Emaze](https://www.emaze.com) - Software de presentación en la nube con plantillas 3D y diseño automático. Incluye presentaciones de video y análisis.
 - [Genially](https://genial.ly) - Crea presentaciones interactivas, infografías y contenido gamificado. Amplias opciones de animación e interactividad.

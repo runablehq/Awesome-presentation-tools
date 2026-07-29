@@ -46,6 +46,7 @@
         "powerpoint": "PowerPoint en la nube con colaboración en tiempo real, Designer IA e integración de Copilot.",
         "zohoshow": "Software de presentación en línea con colaboración en tiempo real. Parte del conjunto de productividad de Zoho.",
         "slides": "Editor de presentaciones basado en web construido sobre Reveal.js. Combina flexibilidad de código con interfaz de edición visual.",
+        "slidesfly": "Publica presentaciones HTML, Reveal.js, Slidev o Marp existentes desde una CLI o un Agent Skill en URL estables para compartir.",
         "swipe": "Plataforma de presentación orientada a dispositivos móviles. Crea y presenta desde cualquier dispositivo con controles optimizados para táctil.",
         "emaze": "Software de presentación en la nube con plantillas 3D y diseño automático. Incluye presentaciones de video y análisis.",
         "genially": "Crea presentaciones interactivas, infografías y contenido gamificado. Amplias opciones de animación e interactividad."
