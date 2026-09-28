@@ -66,6 +66,7 @@ Cloud-based tools with real-time collaboration, easy sharing, and cross-platform
 - [Swipe](https://www.swipe.to) - Mobile-first presentation platform. Create and present from any device with touch-optimized controls.
 - [Emaze](https://www.emaze.com) - Cloud-based presentation software with 3D templates and automatic design. Video presentations and analytics included.
 - [Genially](https://genial.ly) - Create interactive presentations, infographics, and gamified content. Rich animation and interactivity options.
+- [NOS Workspace](https://nos-workspace.com) - Paste HTML decks and reports from any AI tool, edit text like a doc, and share one link that opens without an account. Freemium.
 
 ## Developer & Markdown-Based
 
