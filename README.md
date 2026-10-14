@@ -41,6 +41,7 @@ AI-powered tools that generate presentations from prompts, content, or simple te
 - [Slideoo](https://slideoo.ai) - AI presentation maker that transforms documents and ideas into slides. Real-time collaboration and export to multiple formats.
 - [PopAI](https://www.popai.pro) - AI assistant for creating presentations with smart content suggestions and visual enhancements.
 - [Kroma.ai](https://kroma.ai) - AI-powered presentation tool focused on sales and marketing decks. Automatic design suggestions and content optimization.
+- [SurgePix](https://surgepix.ai) - AI visual generator and layer editor for presentations, posters, and social images. Create from a prompt, then keep editing in layers and export.
 
 ## AI-Powered (Enterprise & Advanced)
 
