@@ -155,6 +155,7 @@ Specialized tools for data-driven presentations, charts, and business intelligen
 - [Landslide](https://github.com/adamzap/landslide) - Generate HTML5 slideshows from Markdown, ReST, or Textile. Python-based with themes.
 - [Hovercraft](https://github.com/regebro/hovercraft) - Create impress.js presentations from reStructuredText. Python-based with 3D effects.
 - [Patat](https://github.com/jaspervdj/patat) - Terminal-based presentation tool. Present Markdown slides directly in your terminal.
+- [GlideDeck](https://github.com/nirlotan/GlideDeck) - Native zooming presentations on an infinite canvas, a Prezi-style alternative. Imports and exports PowerPoint, exports PDF, runs on Windows and macOS.
 
 ## Plugins & Extensions
 
