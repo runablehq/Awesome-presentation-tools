@@ -116,6 +116,7 @@ Specialized tools for data-driven presentations, charts, and business intelligen
 - [Power BI](https://powerbi.microsoft.com) - Microsoft's business analytics service. Create interactive reports and dashboards for data-driven presentations.
 - [Looker Studio](https://lookerstudio.google.com) - Google's free data visualization tool. Turn data into informative dashboards and reports.
 - [ChartBlocks](https://www.chartblocks.com) - Simple chart creation tool. Integrates data from multiple sources for real-time updating charts.
+- [ChartReceipt](https://www.agensi.io/skills/chartreceipt-powerpoint-chart-workbook-consistency) - Paid Agensi AI-agent skill ($9; checked November 2026) comparing classic PPTX chart caches with relationship-linked embedded XLSX stored values. Produces HTML/JSON evidence; does not recalculate, refresh, repair, or certify mathematical correctness.
 - [RAWGraphs](https://www.rawgraphs.io) - Open-source data visualization framework. Create custom vector-based visualizations from spreadsheets.
 - [Plotly](https://plotly.com) - Interactive graphing library. Create publication-quality graphs and dashboards with Python, R, or JavaScript.
 
